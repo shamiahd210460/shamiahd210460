@@ -21,7 +21,7 @@
 
 - 📫 How to reach me ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-- 📄 Know about my experiences [file:///C:/Users/shamn/OneDrive/Desktop/Shamny%20Ahamed%20(1).pdf](file:///C:/Users/shamn/OneDrive/Desktop/Shamny%20Ahamed%20(1).pdf)
+
 
 - ⚡ Fun fact **I think I'M the Funniest**
 
