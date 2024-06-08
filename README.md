@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shamny Ahamed</h1>
 <h3 align="center">A passionate DEVOPS ENTHUSIAST | LINUX PRACTITIONER from Sri Lanka</h3>
 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamiahd210460&label=Profile%20views&color=0e75b6&style=flat" alt="shamiahd210460" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamiahd210460" alt="shamiahd210460" /></a> </p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - 🔭 I’m currently working on **Software Engineering at Plymouth University**
 
@@ -13,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
 
-- 📫 How to reach me **https://www.linkedin.com/in/shamnyahd/**
+- 📫 How to reach me ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 - 📄 Know about my experiences [file:///C:/Users/shamn/OneDrive/Desktop/Shamny%20Ahamed%20(1).pdf](file:///C:/Users/shamn/OneDrive/Desktop/Shamny%20Ahamed%20(1).pdf)
 
@@ -37,5 +43,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamiahd210460&show_icons=true&locale=en" alt="shamiahd210460" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamiahd210460&" alt="shamiahd210460" /></p>
+
+
+
 
   
